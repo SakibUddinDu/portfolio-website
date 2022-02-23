@@ -33,9 +33,9 @@ img {
 .btn {
   text-decoration: none;
   background-color: #ff5959;
-  border-radius: 3%;
+  border-radius: 7px;
   color: #ffffff;
-  padding: 5px 10px;
+  padding: 10px 20px;
 }
 .heading-title {
   border-left: 4px solid #fc2626;
@@ -50,6 +50,7 @@ img {
 }
 .one-third {
   width: 33%;
+  padding: 3%;
 }
 .mission-illustration {
   width: 40%;
@@ -58,6 +59,11 @@ img {
 /* Global Community section start */
 .gc_side_img {
   margin-left: 15%;
+}
+
+/* Blog section start */
+.blog-btn {
+  padding: 8px 10px;
 }
 /* Footer section start */
 .footer {
